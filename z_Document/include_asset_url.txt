@@ -1,0 +1,16 @@
+<?php require('
+@include('frontend/
+
+
+src="
+src="{{ asset('public/frontend/
+
+
+href="
+href="{{ url('
+
+
+href="
+href="{{ asset('public/frontend/
+
+') }}
